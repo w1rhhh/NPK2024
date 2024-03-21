@@ -48,7 +48,7 @@ height = 20
 octaves = 0.1
 perlin_noise = [[perlin(x * octaves, y * octaves, seed) for x in range(width)] for y in range(height)]
 
-# адекватная визуализация шума перлина
+# нормализация значений
 for row in range(len(perlin_noise)):
     for i in range(len(perlin_noise[row])):
         perlin_noise[row][i]  *= 10

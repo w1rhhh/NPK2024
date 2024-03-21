@@ -41,7 +41,7 @@ def print_array(arr):
     for row in arr1:
         print(*row)
 
-# Генерация шума Перлина размером 100 x 100
+# генерация шума перлина размерностью 20х20
 seed = 9
 width = 20
 height = 20

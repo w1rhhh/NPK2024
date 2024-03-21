@@ -1,2 +1,3 @@
 Ссылка на скачивание Unity проекта с процедурной генерацией ландшафта:
 https://drive.google.com/file/d/1o4dXvzpW2lg4SsZCtzpgkk91u7gDZ5S-/view?usp=sharing
+Все использованные скрипты лежат в одноименной папке в репозитории
